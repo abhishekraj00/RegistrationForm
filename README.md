@@ -30,7 +30,8 @@ To start the frontend server, follow these steps:
 
 [Project Walkthorugh ] [https://youtu.be/a9xlM2YHLn8]
 
+![16 06 2023_17 39 20_REC](https://github.com/abhishekraj00/RegistrationForm/assets/110536209/fb4b504b-eb11-44de-b598-b2c9d0fde211)
 
-
+![Screenshot (249)](https://github.com/abhishekraj00/RegistrationForm/assets/110536209/c7c04427-9d5d-462c-8592-cf181f0001cc)
 
 
