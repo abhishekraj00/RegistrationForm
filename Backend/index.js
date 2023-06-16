@@ -14,6 +14,9 @@ mongoose
 // middleware
 app.use(express.json());
 
+app.get('/',()=>{
+  res.send("server started")})
+
 app.use("/", require("./routes/registerData"));
 
 app.listen(port, () => {
