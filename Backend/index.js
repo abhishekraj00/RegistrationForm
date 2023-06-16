@@ -14,12 +14,6 @@ mongoose
 // middleware
 app.use(express.json());
 
-app.use(cors());
-app.get("/", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "ture");
-  res.send("api get started");
-});
-
 app.use("/", require("./routes/registerData"));
 
 app.listen(port, () => {
