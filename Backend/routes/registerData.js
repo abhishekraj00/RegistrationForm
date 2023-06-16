@@ -17,7 +17,7 @@ const {
 router.use(
   cors({
     credentials: true,
-    origin: "https://regestrationform2-frontend.onrender.com/",
+    origin: "https://locallhost:3000/",
   })
 );
 
