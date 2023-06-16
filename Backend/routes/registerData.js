@@ -17,7 +17,7 @@ const {
 router.use(
   cors({
     credentials: true,
-    origin: "https://locallhost:3000/",
+    origin: "http://localhost:3000",
   })
 );
 
