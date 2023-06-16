@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import axios from "axios";
 import { Toaster } from "react-hot-toast";
 
-axios.defaults.baseURL = "http://localhost:8080";
+axios.defaults.baseURL = "https://regestrationform2.onrender.com";
 axios.defaults.withCredentials = true;
 
 const App = () => {
