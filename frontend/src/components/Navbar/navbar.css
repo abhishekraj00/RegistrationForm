@@ -1,0 +1,15 @@
+.container-navbar {
+  background: #000;
+  padding: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.link {
+  text-decoration: none;
+  color: aliceblue;
+  cursor: pointer;
+}

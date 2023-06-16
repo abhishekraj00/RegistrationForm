@@ -1,0 +1,63 @@
+/* Add CSS styles for the form elements */
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+.form-container {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+
+  padding: 2%;
+}
+
+label {
+  font-weight: bold;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.name-containre,
+.country-containre {
+  display: flex;
+  gap: 5%;
+}
+
+input,
+select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+p {
+  font-size: small;
+  font-weight: 100;
+}
+
+.gnder {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 8px 16px;
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2e363d;
+}
