@@ -1,7 +1,5 @@
 # RegistrationForm
 
-# RegistrationForm
-
 ## Environment Variables
 
 Ensure that you have the following environment variables set in your `.env` file:
@@ -26,6 +24,9 @@ To start the frontend server, follow these steps:
 1. Open another command prompt or terminal.
 2. Navigate to the frontend directory:
 3. Once you're inside the backend directory, start the server: `npm start` 
+
+
+## i made a small walkthough video to have a better idea 
 
 [Project Walkthorugh ] [https://youtu.be/a9xlM2YHLn8]
 
